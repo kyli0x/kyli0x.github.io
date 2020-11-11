@@ -1,0 +1,22 @@
+# site settings
+title: Kyli0x
+email: kyli0x@protonmail.ch
+description: My personal site
+baseurl: ""
+url: "https://github.com/kyli0x/kyli0x.github.io"
+author: kyli0x
+
+# homepage tiles
+tiles-source: pages
+tiles-count: 6
+
+# social settings
+github_url: https://github.com/kyli0x
+instagram_url: https://instagram.com/kyli0x
+twitter_url: https://twitter.com/kyli0x
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
